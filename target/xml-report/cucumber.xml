@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.55">
+    <testcase classname="TestCase8" name="TC08 'Products' button tiklanir" time="12.37">
+        <system-out>
+            <![CDATA[Given navigate to "autoUrl".................................................passed
+Then Verify that home page is visible successfully..........................passed
+And Click on Products button................................................passed
+And Verify user is navigated to ALL PRODUCTS page successfully..............passed
+And The products list is visible............................................passed
+And Click on View Product of first product..................................passed
+And User is landed to product detail page...................................passed
+And Verify that detail detail is visible: product name, category, price, availability, condition, brand.passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

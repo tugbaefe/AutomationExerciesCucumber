@@ -1,0 +1,8 @@
+stepDefinitions\Hooks.class
+pages\AutomationPage1.class
+runners\TestRunner2.class
+utilities\ConfigReader.class
+runners\Runner.class
+runners\TestRunner.class
+utilities\Driver.class
+stepDefinitions\AutomationStepDefinitions1.class
